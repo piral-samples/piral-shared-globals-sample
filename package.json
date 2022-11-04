@@ -1,0 +1,16 @@
+{
+  "name": "shared-globals",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "pilet debug packages/pilet"
+  },
+  "devDependencies": {
+    "piral-cli": "next",
+    "piral-cli-esbuild": "next",
+    "typescript": "latest"
+  }
+}

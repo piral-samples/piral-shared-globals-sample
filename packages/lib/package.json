@@ -1,0 +1,7 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "The shared library",
+  "main": "src/index.ts",
+  "source": "src/index.ts"
+}
